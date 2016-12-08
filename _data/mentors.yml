@@ -3,6 +3,9 @@
   image: hpdang.jpg
   blog: http://blog.fossasia.org/
   facebook: hpdang
+  lat: 
+  lng: 
+  
 
 - name: Mario Behling
   github: mariobehling
@@ -10,12 +13,16 @@
   blog: http://mariobehling.de/
   twitter: mariobehling
   facebook: mariobehling
+  lat: 
+  lng: 
 
 - name: Louis Gagnon
   github: louisgag
   image: louisgagnon.jpg
   blog: http://louisgagnon.com/
   twitter: louisgagnoncom
+  lat: 
+  lng: 
 
 - name: Saptak Sengupta
   github: saptaks
@@ -23,54 +30,80 @@
   blog: http://saptaks.me
   twitter: Saptak013
   facebook: s4pt4ks
+  lat: 
+  lng: 
 
 - name: Hemant Jadon
   github: hemantjadon
   image: hemantjadon.jpg
   twitter: hemantjadonhj
   facebook: hemant.jadon
+  lat: 
+  lng: 
 
 - name: Jigyasa Grover
   image: jgrover.jpg
   twitter: jigyasa_grover
   facebook: jigyasa.grover.14
+  lat: 
+  lng: 
 
 - name: Phu Nguyen
   github: nghoangphu
   image: nghoangphu.jpg
   facebook: nghoangphu
+  lat: 
+  lng: 
 
 - name: Shubham Padia
   github: shubham-padia
   image: shubham-padia.jpg
   twitter: shubham_p98
   facebook: padiashubham
+  lat: 
+  lng: 
 
 - name: Dishant Khanna
   github: DishantK1807
   image: dishantkhanna.jpg
   twitter: dishantkhanna
   facebook: dishant.khanna.1807
+  lat: 
+  lng: 
 
 - name: Damini Satya
   github: daminisatya
   image: daminisatya.jpg
   twitter: Daminisatya
+  lat: 
+  lng: 
 
 - name: Nicco Kunzmann
   github: niccokunzmann
   image: niccokunzmann.jpg
   blog: niccokunzmann.github.io
   twitter: dannhaltohneson
+  lat: 
+  lng: 
 
 - name: Robby O'Connor
   github: robbyoconnor
   image: robby.jpg
   blog: http://robby.oconnor.ninja/
   twitter: robbyoconnor
+  lat: 
+  lng: 
 
 - name: Ajinkya Wavare
   github: ajinkya007
   image: ajinkya.jpg
   blog: http://ajinkya007.in/
   twitter: wavare_ajinkya
+  lat: 
+  lng: 
+
+- name: Agata Kowalska
+  github: agwisniewska
+  image: agatakowalska.jpg
+  lat: 
+  lng: 
